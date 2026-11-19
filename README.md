@@ -3,7 +3,6 @@
 Proyek ini dibangun bertahap mengikuti Handbook Hari 03 dan Hari 04. Setiap siswa bekerja di **fork** miliknya sendiri.
 
 ## Mulai (siswa baru)
-
 1. Buka `https://github.com/AdlinMH/nextjs-tanya-aja-latihan`, klik **Fork**, pilih akunmu sebagai **Owner**, lalu **Create fork**.
 2. Clone fork milikmu (ganti `NAMA-AKUN` dengan nama akun GitHub-mu), lalu pasang dependensi dan jalankan:
 
